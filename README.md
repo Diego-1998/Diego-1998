@@ -1,6 +1,6 @@
 # Olá! Eu sou o Diego Leandro
 
-  Migrei para Área de desenvolvimento de software em 2019, desde então sou apaixonado por tecnologia.
+  Migrei para Área de desenvolvimento de software em 2019.
 
  ◾ Sou Desenvolvedor Back-end
 

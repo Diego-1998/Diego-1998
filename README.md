@@ -6,7 +6,7 @@
 
  ◾ Atualmente tenho feito Projetos utilizando Java & Spring
 
- ◾ Estou iniciando meus estudos com docker containers
+ ◾ Estou iniciando meus estudos com docker containers & AWS
 
 <div align="center">
   <a href="https://github.com/Diego-1998">

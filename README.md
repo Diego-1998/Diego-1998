@@ -2,7 +2,7 @@
 
   Migrei para Área de desenvolvimento de software em 2019.
 
- ◾ Sou Desenvolvedor Back-end
+ ◾ Atualmente trabalho como Desenvolvedor na Finansystech.
 
  ◾ Os meus estudos atuais estão concentrados em desenvolvimento back-end com Java,<br>
    NodeJS, Spring, Nuvem AWS e Docker

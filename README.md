@@ -1,6 +1,6 @@
 # Olá! Eu sou o Diego Leandro
 
-  Migrei para Área de desenvolvimento de software em 2019.
+ ◾ Sou apaixonado por tecnologia e gosto da praticidade que ela trás a nossa vida.
 
  ◾ Atualmente trabalho como Desenvolvedor na Finansystech.
 

@@ -4,7 +4,8 @@
 
  ◾ Sou Desenvolvedor Back-end
 
- ◾ Os meus estudos atuais estão concentrados em desenvolvimento back-end com Java, NodeJS, Spring, Nuvem AWS e Docker
+ ◾ Os meus estudos atuais estão concentrados em desenvolvimento back-end com Java,
+   NodeJS, Spring, Nuvem AWS e Docker
 
  
 
